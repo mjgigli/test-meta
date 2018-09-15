@@ -1,3 +1,5 @@
 {
- "projects": {}
+  "projects": {
+    "active-object": "https://github.com/mjgigli/active-object.git"
+  }
 }
